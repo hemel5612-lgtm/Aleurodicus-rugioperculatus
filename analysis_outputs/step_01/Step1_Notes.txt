@@ -2,4 +2,5 @@ Step 1 completed.
 Merged all six insecticide sheets.
 Converted wide data to long format.
 Computed raw mortality and Abbott-corrected mortality.
+Corrected summary table replicate count so both control and treated groups show n = 4.
 Ready for Step 2 assumption checks and nonparametric group comparisons.
