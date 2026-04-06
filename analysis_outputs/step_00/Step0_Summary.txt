@@ -4,5 +4,6 @@ GitHub notebook URL: https://github.com/hemel5612-lgtm/Aleurodicus-rugioperculat
 Push enabled: True
 Git user name: hemel5612-lgtm
 Git user email: hemel5612@gmail.com
+Cleaned workbook copy saved: True
 Tables: XLSX only
 Figures: PNG only
