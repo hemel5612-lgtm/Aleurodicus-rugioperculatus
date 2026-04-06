@@ -1,0 +1,5 @@
+Step 1 completed.
+Merged all six insecticide sheets.
+Converted wide data to long format.
+Computed raw mortality and Abbott-corrected mortality.
+Ready for Step 2 assumption checks and nonparametric group comparisons.
