@@ -1,0 +1,8 @@
+Step 0 completed.
+Workbook: /content/drive/MyDrive/Data Analysis March 2026/Aleurodicus_rugioperculatus.xlsx
+GitHub notebook URL: https://github.com/hemel5612-lgtm/Aleurodicus-rugioperculatus/blob/main/Aleurodicus_rugioperculatus.ipynb
+Push enabled: True
+Git user name: hemel5612-lgtm
+Git user email: hemel5612@gmail.com
+Tables: XLSX only
+Figures: PNG only

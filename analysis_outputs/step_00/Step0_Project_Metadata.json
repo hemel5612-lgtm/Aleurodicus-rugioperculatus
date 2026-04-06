@@ -1,0 +1,80 @@
+{
+  "project_root": "/content/drive/MyDrive/Data Analysis March 2026",
+  "output_dir": "/content/drive/MyDrive/Data Analysis March 2026/Mishu",
+  "target_workbook": "/content/drive/MyDrive/Data Analysis March 2026/Aleurodicus_rugioperculatus.xlsx",
+  "github_notebook_url": "https://github.com/hemel5612-lgtm/Aleurodicus-rugioperculatus/blob/main/Aleurodicus_rugioperculatus.ipynb",
+  "github_url_source": "/content/Aleurodicus-rugioperculatus/analysis_outputs/step_00/Step0_Summary.txt",
+  "github_repo_owner": "hemel5612-lgtm",
+  "github_repo_name": "Aleurodicus-rugioperculatus",
+  "github_branch": "main",
+  "github_repo_url": "https://github.com/hemel5612-lgtm/Aleurodicus-rugioperculatus.git",
+  "github_raw_notebook_url": "https://raw.githubusercontent.com/hemel5612-lgtm/Aleurodicus-rugioperculatus/main/Aleurodicus_rugioperculatus.ipynb",
+  "repo_local_dir": "/content/Aleurodicus-rugioperculatus",
+  "repo_outputs_dir": "/content/Aleurodicus-rugioperculatus/analysis_outputs",
+  "repo_notebook_path": "/content/Aleurodicus-rugioperculatus/Aleurodicus_rugioperculatus.ipynb",
+  "push_enabled": true,
+  "git_user_name": "hemel5612-lgtm",
+  "git_user_email": "hemel5612@gmail.com",
+  "sheet_names_raw": [
+    "Tundra 20SP",
+    "Actara 25 WG",
+    "Tiddo 20 SL",
+    "Shobicron 425 EC",
+    "Panel 50 SP",
+    "Ravzoom 14.5 SC"
+  ],
+  "sheet_names_standardized": [
+    "Tundra 20 SP",
+    "Actara 25 WG",
+    "Tiddo 20 SL",
+    "Shobicron 425 EC",
+    "Panel 50 SP",
+    "Rav-zoom 14.5 SC"
+  ],
+  "analysis_template": {
+    "primary_reference_template": "Uploaded PDF statistical style",
+    "ignore_for_statistical_decisions": "Methodology.docx ANOVA/LSD workflow",
+    "time_scale_in_actual_workbook": [
+      "24 HAS",
+      "48 HAS",
+      "72 HAS"
+    ],
+    "baseline_column_prefix": "BS_",
+    "life_stages": [
+      "Egg",
+      "Nymph",
+      "Adult"
+    ],
+    "mortality_correction": "Abbott corrected mortality",
+    "assumption_tests": [
+      "Shapiro-Wilk",
+      "Levene"
+    ],
+    "group_comparison": "Kruskal-Wallis + Conover-Iman post-hoc + Holm-Bonferroni adjustment",
+    "factorial_nonparametric_model": "ART ANOVA",
+    "dose_response_timepoint": "72 HAS",
+    "dose_response_model": "4-parameter log-logistic (LL.4), fallback LL.3 if lower asymptote unstable",
+    "multivariate_analysis": "PCA + KMO at 72 HAS",
+    "table_style": "Mean ± SE with grouping letters",
+    "figure_export": "PNG only",
+    "table_export": "XLSX only",
+    "dpi": 300,
+    "output_excel": "Final_Analysis_Mishu.xlsx"
+  },
+  "required_columns": [
+    "Conc",
+    "Rep",
+    "BS_Egg",
+    "24_Egg",
+    "48_Egg",
+    "72_Egg",
+    "BS_Nymph",
+    "24_Nymph",
+    "48_Nymph",
+    "72_Nymph",
+    "BS_Adult",
+    "24_Adult",
+    "48_Adult",
+    "72_Adult"
+  ]
+}
