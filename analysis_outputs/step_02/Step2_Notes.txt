@@ -2,6 +2,7 @@ Step 2 completed.
 Ran Shapiro-Wilk and Levene tests on Abbott-corrected mortality.
 Ran Kruskal-Wallis omnibus tests for each life stage and time point.
 Computed global mean ranks across treated insecticide-concentration groups.
-Ran Conover-Iman posthoc tests with Holm-Bonferroni adjustment.
-Created compact-letter groupings for downstream publication tables.
-Note: This workbook contains 36 treated groups, so group counts are data-driven rather than forced to 40.
+Ran Conover-Iman posthoc tests with Holm-Bonferroni adjustment only when omnibus KW was significant.
+For non-significant omnibus cases, all groups were assigned a common letter 'a' and pairwise results were not interpreted.
+Compact letter display was simplified toward journal-style labels.
+This workbook contains 36 treated groups, so group counts are data-driven rather than forced to 40.
